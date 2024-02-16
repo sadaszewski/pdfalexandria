@@ -30,3 +30,5 @@ mindmap
         id[Both]
         id[None]
 ```
+
+![Screenshot of PDF Alexandria in action](docs/images/pdfalex_screenshot1.jpg)
