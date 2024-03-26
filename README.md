@@ -21,7 +21,6 @@ mindmap
       id{{Text box}}
         id[Markdown]
       id[Arrow]
-      id[Image]
       id{{Freehand}}
         id[Lines]
         id[Arrows]
