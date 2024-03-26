@@ -35,6 +35,9 @@ mindmap
         id[End]
         id[Both]
         id[None]
+    id))Images((
+      id[SVG Support]
+      id[Editing Support]
 ```
 
 ![Screenshot of PDF Alexandria in action](docs/images/pdfalex_screenshot1.jpg)
