@@ -1,6 +1,6 @@
 # PDF Alexandria
 
-Download: [Windows](https://github.com/sadaszewski/pdfalexandria/releases/download/2024c/pdf-alexandria-2024c-windows-x64.zip) | [MacOS](https://github.com/sadaszewski/pdfalexandria/releases/download/2024b/pdf-alexandria-2024b-macos-x64.zip)
+Download: [Windows](https://github.com/sadaszewski/pdfalexandria/releases/download/2024c/pdf-alexandria-2024c-windows-x64.zip) | [MacOS](https://github.com/sadaszewski/pdfalexandria/releases/download/2024c/pdf-alexandria-2024c-macos-x64.zip)
 
 <img src="docs/images/Ancientlibraryalex.jpg" alt="" width="50%" align="left" />
 
